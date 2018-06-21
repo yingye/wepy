@@ -251,6 +251,13 @@
             "qrcode": "https://raw.githubusercontent.com/glore/party/master/src/images/logo.jpg",
             "company": "深圳市友福同享信息科技有限公司"
         }, {
+            "name": "友福聚会",
+            "email": "glore@ufutx.com",
+            "link": "https://party.ufutx.com",
+            "opensource": "https://github.com/glore/party",
+            "qrcode": "https://camo.githubusercontent.com/9b656dd8c3564124a4732070f7681e44d75356f6/68747470733a2f2f70617274792e75667574782e636f6d2f696d67732f6d705f70617274792e6a7067",
+            "company": "深圳市友福同享信息科技有限公司"
+        }, {
             "name": "米淘联盟",
             "link": "",
             "email": "hello_undefined@icloud.com",
@@ -328,6 +335,13 @@
             "qrcode": "https://img1.dxycdn.com/2018/0227/019/3263532083175598806-2.jpg",
             "company": "观澜网络（杭州）有限公司（丁香园）"
         },{
+            "name": "花赚福利社",
+            "email": "huazhuanapp@gmail.com",
+            "link": "https://www.huazhuanapp.com",
+            "opensource": "",
+            "qrcode": "https://static.huazhuanapp.tech/static/wxmini_qrcode.jpg",
+            "company": "深圳花赚科技网络有限公司"
+        },{
             "name": "微剧电影",
             "email": "junqiang@ouj.com",
             "link": "http://app.duowan.com/wjy/",
@@ -362,6 +376,36 @@
             "opensource": "",
             "qrcode": "",
             "company": ""
-       }
+        }, {
+            "name": "羽球自由对阵赛",
+            "email": "1648511816@qq.com",
+            "link": "",
+            "opensource": "https://github.com/jasscia/newBadminton",
+            "qrcode": "https://raw.githubusercontent.com/jasscia/newBadminton/master/src/image/scancode.jpg",
+            "company": ""
+        }, {
+            "name": "世界杯GO",
+            "email": "world.cup.calendar@wecode.tech",
+            "link": "https://wecode.tech/",
+            "opensource": "",
+            "qrcode": "https://github.com/fanyinghao/fanyinghao.github.io/raw/master/images/gh_e1456f383a2d_258.jpg",
+            "company": "深圳微小程序科技有限公司"
+        },
+        {
+            "name": "婷婷诗教",
+            "email": "mrlikun@icloud.com",
+            "link": "http://ttsing.com/",
+            "opensource": "",
+            "qrcode": "https://user-images.githubusercontent.com/15193414/41582998-bebc70ea-73d5-11e8-8222-7d95410ae37b.jpeg",
+            "company": "唱道（上海）文化传播有限公司"
+        },
+        {
+            "name": "球迷Battle赛",
+            "email": "alvinxu@algforce.com",
+            "link": "",
+            "opensource": "https://github.com/zenofzhen/worldcupbattle",
+            "qrcode": "https://raw.githubusercontent.com/zenofzhen/worldcupbattle/dev/src/image/qrcode.jpg",
+            "company": "上海幽孚网络科技有限公司"
+        }
     ]
 }
